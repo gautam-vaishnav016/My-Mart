@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 
 ## Deployment
-https://my-mart-app.vercel.app/
+
+https://my-mart-web-app.vercel.app/
